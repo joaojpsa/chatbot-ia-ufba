@@ -1,6 +1,6 @@
 import openai
 import os
-from db_service import search_info
+from .db_service import search_info
 
 def ask_chatgpt(question):
     openai.api_key = os.getenv("OPENAI_API_KEY")
