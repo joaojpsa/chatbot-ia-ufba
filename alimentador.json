@@ -1,0 +1,83 @@
+[
+    {
+        "pergunta": "Onde fica o Instituto de Computação?",
+        "resposta": "O Instituto de Computação está localizado no Campus de Ondina, em Salvador-BA."
+    },
+    {
+        "pergunta": "Quais são os cursos oferecidos pelo instituto?",
+        "resposta": "O instituto oferece cursos de graduação em Ciência da Computação e Sistemas de Informação."
+    },
+    {
+        "pergunta": "Qual é o horário de funcionamento do instituto?",
+        "resposta": "O instituto funciona de segunda a sexta, das 8h às 22h."
+    },
+    {
+        "pergunta": "O instituto oferece bolsas de estudo?",
+        "resposta": "Sim, o instituto oferece bolsas de estudo através de programas como PIBIC e PIBIC"
+    },
+    {
+        "pergunta": "Como é o processo seletivo para a graduação?",
+        "resposta": "O processo seletivo é feito através do SISU, utilizando a nota do ENEM."
+    },
+    {
+        "pergunta": "Como funciona o programa de mestrado?",
+        "resposta": "O mestrado tem duração de 24 meses e exige a entrega de uma dissertação."
+    },
+    {
+        "pergunta": "Quais são os objetivos do Instituto de Computação da UFBA?",
+        "resposta": "Os objetivos incluem formar profissionais qualificados, promover pesquisas de ponta e contribuir para o desenvolvimento da sociedade através da computação."
+    },
+    {
+        "pergunta": "Quais são os diferentes tipos de projetos de pesquisa que são desenvolvidos no Instituto de Computação?",
+        "resposta": "Os projetos de pesquisa incluem áreas como inteligência artificial, redes de computadores, banco de dados e engenharia de software."
+    },
+    {
+        "pergunta": "Qual é o principal objetivo da Ufba?",
+        "resposta": "A Ufba tem como principal objetivo a produção e difusão do conhecimento, por meio do ensino, da pesquisa e da extensão, com vistas à formação de cidadãos críticos e comprometidos com a sociedade."
+    },
+    {
+        "pergunta": "Para que a Ufba foi estabelecida?",
+        "resposta": "    É uma universidade pública, então deve ter sido estabelecida para o ensino superior ou talvez para atender necessidades específicas da região."
+    },
+    {
+        "pergunta": "Onde a Ufba está localizada?",
+        "resposta": "    Na Bahia, claro, já que é chamada de Universidade Federal da Bahia."
+    },
+    {
+        "pergunta": "Qual é a estrutura das unidades acadêmicas da Ufba?",
+        "resposta": "Provavelmente inclui departamentos subordinados a faculdades como Artes, Ciências e Tecnologia, etc., cada uma com seus próprios programas."
+    },
+    {
+        "pergunta": "Qual é o principal objetivo do Programa de Desenvolvimento para a Expansão do Ensino Superior (PDE)?",
+        "resposta": "Provavelmente é sobre aumentar o acesso ao ensino superior, talvez com bolsas de estudo e novos programas."
+    },
+    {
+        "pergunta": "Em quais áreas a Ufba se concentra para desenvolvimento?",
+        "resposta": "Provavelmente tecnologia da informação, saúde e meio ambiente, pois são áreas comuns de crescimento para universidades."
+    },
+    {
+        "pergunta": "Quantos diplomas a Ufba concede?",
+        "resposta": "Graduação, mestrado e doutorado em diversas áreas."
+    },
+    {
+        "pergunta": "Qual é o principal objetivo do Plano de Desenvolvimento para a Expansão do Ensino Superior (PDE) da Ufba?",
+        "resposta": "Expandir o acesso ao ensino superior por meio de novos programas e bolsas de estudo."
+    },
+    {
+        "pergunta": "Quais são as principais áreas de pesquisa na Ufba?",
+        "resposta": "Talvez em ciências naturais, engenharia, saúde e ciências sociais."
+    },
+    {
+        "pergunta": "Quantas parcerias a Ufba estabeleceu sob o PDE?",
+        "resposta": "Cerca de 20-30 parcerias com instituições em países em desenvolvimento ou universidades globalmente."
+    },
+    {
+        "pergunta": "Quais são as áreas que precisam de mais expansão sob o PDE?",
+        "resposta": "Saúde, tecnologia, meio ambiente e serviços públicos."
+    },
+    {
+        "pergunta": "Quando este plano começou?",
+        "resposta": "Provavelmente na década de 1980, com o impulso para o desenvolvimento nacional."
+    }
+
+]
